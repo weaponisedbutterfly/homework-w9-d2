@@ -11,7 +11,7 @@ window.onload = function(){
 
   var JSONcountry = localStorage.getItem('saved country') || {};
 
-  var countryToLoad = JSON.parse(JSONcountry);
+  var countryToLoad = JSON.parse(JSONcountry) || {};
 
   var li1 = document.createElement('li');
   li1.innerText = "Country: " + countryToLoad.countryname;
