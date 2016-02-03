@@ -1,0 +1,97 @@
+
+body  {
+    background-image: url("http://p1.pichost.me/i/28/1509588.jpg");
+  /*  background-color: #cccccc;*/
+}
+
+h1 {
+  color: #0000FF;
+  text-shadow: 3px 3px 10px #0000FF;
+  font-family: 'Orbitron', 
+  sans-serif;
+}
+
+nav {
+  color: #ff0101;
+  padding-top: 20px;
+  padding-left: 300px;
+  font-size: 50px;
+  text-shadow: 3px 3px 10px #ff0101;
+  font-family: 'Orbitron', 
+  sans-serif;
+}
+
+#countryInfo {
+  color: #ff0101;
+  text-shadow: 3px 3px 10px #ff0101;
+  font-family: 'Orbitron', 
+  sans-serif;
+
+}
+
+
+.container {
+  padding-top: 100px;
+  padding-left: 150px;
+  width: 70%;
+  margin: 0 auto;
+}
+
+/*Grid*/
+
+.grid {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: -4px;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.grid-1 {
+  width: 8.3333333%;
+}
+
+.grid-2 {
+  width: 16.666666%;
+}
+
+.grid-3 {
+  width: 25%;
+}
+
+.grid-4 {
+  width: 33.3333333%;
+}
+
+.grid-5 {
+  width: 41.6666666%;
+}
+
+.grid-6 {
+  width: 50%;
+}
+
+.grid-7 {
+  width: 58.3333333%;
+}
+
+.grid-8 {
+  width: 66.6666666%;
+}
+
+.grid-9 {
+  width: 75%;
+}
+
+.grid-10 {
+  width: 83.3333333%;
+}
+
+.grid-11 {
+  width: 91.6666666%;
+}
+
+.grid-12 {
+  width: 100%;
+}
+
